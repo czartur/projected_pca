@@ -1,2 +1,1 @@
-# projected_pca
-Projected-PCA in factor models (PSC - École Polytechnique)
+## Projected-PCA in factor models (PSC - École Polytechnique)
